@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel Clean</string>
+    <string name="name">Enter the name</string>
+    <string name="email">Enter the correct Email Address</string>
+    <string name="password">Enter Password</string>
+    <string name="c_password">Password do not match</string>
+</resources>
